@@ -1,6 +1,6 @@
 <!-- modrinth_exclude.start -->
 
-# The Ultimate Plane Mod
+# Plane_in_minecraft
 
 
 This mod adds planes into your Minecraft world.
